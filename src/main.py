@@ -1,2 +1,2 @@
-def returnietskeer8(x: int):
-    return x * 8
+def returnietskeer7(x: int):
+    return x * 7
