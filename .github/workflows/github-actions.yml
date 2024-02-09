@@ -1,9 +1,9 @@
 name: pytest
 on:
     push:
-        branches: [ "examples" ]
+        branches: [ "Examples" ]
     pull_request:
-        branches: [ "examples" ]
+        branches: [ "Examples" ]
 
 permissions:
     contents: read
